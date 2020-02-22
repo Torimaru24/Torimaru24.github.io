@@ -1,2 +1,2 @@
-# TorimaruAni.github.io
-Homepage of TorimaruAni
+# Torimaru24.github.io
+Homepage of Torimaru24
